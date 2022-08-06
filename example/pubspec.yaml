@@ -25,6 +25,7 @@ dependencies:
   flutter:
     sdk: flutter
   fluttertoast: ^8.0.8
+  scribble: ^0.4.0
 
 dev_dependencies:
   flutter_test:
